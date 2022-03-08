@@ -4,3 +4,4 @@
 <p>EX03 - Volume Cilindro<p>
 <p>EX04 - Custo Coelhos<p>
 <p>EX05 - Consumo Combustivel<p>
+<p>EX06 - Quadrado Diferença entre 2 numeros<p>
