@@ -7,3 +7,4 @@
 <p>EX06 - Quadrado Diferença entre 2 numeros<p>
 <p>EX07 - Distributiva 4 numeros<p>
 <p>EX08 - Volume Esfera<p>
+<p>EX09 - Converter Temperatura<p>
