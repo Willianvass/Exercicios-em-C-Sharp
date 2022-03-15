@@ -8,3 +8,4 @@
 <p>EX07 - Distributiva 4 numeros<p>
 <p>EX08 - Volume Esfera<p>
 <p>EX09 - Converter Temperatura<p>
+<p>EX10 - Produto e Adição de Frações<p>
