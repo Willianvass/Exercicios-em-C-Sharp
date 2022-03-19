@@ -11,3 +11,4 @@
 <p>EX10 - Produto e Adição de Frações;<p>
 <p>EX11 - Salário Vendedor;<p> 
 <p>EX12 - Volume Lata;<p> 
+<p>EX13 - Media Harmonica Notas Aluno;<p>
