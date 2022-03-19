@@ -1,4 +1,5 @@
-﻿//Calcular a média harmônica das notas de um aluno. Define como utilizar uma console manipulando dados de entrada e saída e declarando variáveis
+//Calcular a média harmônica das notas de um aluno. Define como utilizar uma console manipulando dados de entrada e saída e declarando variáveis
+//Utilizamos a média harmônica quando queremos encontrar a média entre grandezas que são inversamente proporcionais. A média harmônica é um dado estatístico.
 
 using System;
 
@@ -22,10 +23,9 @@ namespace Nota_Harmonica_Aluno
             System.Console.Write("Qual a nota da quarta prova: ");
             nota4 = double.Parse(Console.ReadLine());
 
-            mediaHarmonica = (nota1 + nota2 + nota3 + nota4) / 4;
+            mediaHarmonica = (4/((1/nota1) + (1/nota2) + (1/nota3) + (1/nota4)));
 
-            //MEDIAH = (4/((1/N1) + (1/N2) + (1/N3) + (1/N4)));
-            System.Console.WriteLine("Após as 4 provas voce teve uma média de: "), mediaHarmonica;
+            System.Console.WriteLine("Após as 4 provas voce teve uma média de: {0}", mediaHarmonica.ToString("F"));
         }
     }
 }
