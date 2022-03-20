@@ -14,3 +14,6 @@
 <p>EX13 - Media Harmonica Notas Aluno;<p>
 <p>EX14 - Media Ponderada;<p>
 <p>EX15 - Numeros e Operações;<p>
+<p>EX16 - Potência de um Numero;<p>
+<p>EX17 - Quadrado de um Numero;<p>
+<p>EX18 - Area de um Quadrado;<p>
