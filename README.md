@@ -12,3 +12,5 @@
 <p>EX11 - Salário Vendedor;<p> 
 <p>EX12 - Volume Lata;<p> 
 <p>EX13 - Media Harmonica Notas Aluno;<p>
+<p>EX14 - Media Ponderada;<p>
+<p>EX15 - Numeros e Operações;<p>
