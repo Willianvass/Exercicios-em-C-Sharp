@@ -18,3 +18,5 @@
 <p>EX17 - Quadrado de um Numero;<p>
 <p>EX18 - Area de um Quadrado;<p>
 <p>EX19 - Consumo Combustivel Completo;<p>
+<p>EX20 - Troca de Valores Numericos;<p>
+<p>EX21 - Area do Triangulo;<p>
