@@ -20,3 +20,5 @@
 <p>EX19 - Consumo Combustivel Completo;<p>
 <p>EX20 - Troca de Valores Numericos;<p>
 <p>EX21 - Area do Triangulo;<p>
+<p>EX22 - Prestação em Atraso;<p>
+<p>EX23 - Quadrado de 3 numeros;<p>
