@@ -23,3 +23,5 @@
 <p>EX22 - Prestação em Atraso;<p>
 <p>EX23 - Quadrado de 3 numeros;<p>
 <p>EX24 - Salario Funcionario;<p>
+<p>EX25 - Salario Vendedor;<p>
+<p>EX26 - Velocidade Veiculo;<p>
