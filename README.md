@@ -28,7 +28,7 @@
   
 <p>EXECICIOS COM IF - ELSE<p>
   
-<p>EX27 - Verifica NUmero Informado;<p>
+<p>EX27 - Verifica Numero Informado;<p>
 <p>EX28 - Maior e Menor Numero;<p>
   
   
