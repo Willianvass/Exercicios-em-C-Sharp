@@ -25,3 +25,10 @@
 <p>EX24 - Salario Funcionario;<p>
 <p>EX25 - Salario Vendedor;<p>
 <p>EX26 - Velocidade Veiculo;<p>
+  
+<p>EXECICIOS COM IF - ELSE<p>
+  
+<p>EX27 - Verifica NUmero Informado;<p>
+<p>EX28 - Maior e Menor Numero;<p>
+  
+  
