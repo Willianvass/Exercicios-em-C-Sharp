@@ -30,5 +30,9 @@
   
 <p>EX27 - Verifica Numero Informado;<p>
 <p>EX28 - Maior e Menor Numero;<p>
+<p>EX29 - Medidas Formam Triangulo;<p>
+<p>EX30 - Numeros e Diferenças;<p>
+  
+  
   
   
