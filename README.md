@@ -32,7 +32,7 @@
 <p>EX28 - Maior e Menor Numero;<p>
 <p>EX29 - Medidas Formam Triangulo;<p>
 <p>EX30 - Numeros e Diferenças;<p>
-  
+<p>EX31 - Numeros e seus Dividores;<p>
   
   
   
