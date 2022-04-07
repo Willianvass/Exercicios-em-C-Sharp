@@ -33,6 +33,7 @@
 <p>EX29 - Medidas Formam Triangulo;<p>
 <p>EX30 - Numeros e Diferenças;<p>
 <p>EX31 - Numeros e seus Dividores;<p>
+<p>EX32 - Aluno Aprovado ou Reprovado;<p>
   
   
   
