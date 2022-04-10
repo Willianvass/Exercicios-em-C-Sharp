@@ -34,7 +34,8 @@
 <p>EX30 - Numeros e Diferenças;<p>
 <p>EX31 - Numeros e seus Dividores;<p>
 <p>EX32 - Aluno Aprovado ou Reprovado;<p>
-<p> EX33 - Numeros Compara Altera Valores;<p>
+<p>EX33 - Numeros Compara Altera Valores;<p>
+<p>EX34 - Aluno e Conceitos;<p>
   
   
   
