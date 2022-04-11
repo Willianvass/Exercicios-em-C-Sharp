@@ -36,6 +36,6 @@
 <p>EX32 - Aluno Aprovado ou Reprovado;<p>
 <p>EX33 - Numeros Compara Altera Valores;<p>
 <p>EX34 - Aluno e Conceitos;<p>
-  
+<p>EX35 - Reajuste Salarial Conforme Faixa;<p>  
   
   
