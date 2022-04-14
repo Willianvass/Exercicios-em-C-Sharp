@@ -37,6 +37,7 @@
 <p>EX33 - Numeros Compara Altera Valores;<p>
 <p>EX34 - Aluno e Conceitos;<p>
 <p>EX35 - Reajuste Salarial Conforme Faixa;<p> 
-<p>EX36 - Numero Positivo e Negativo;<p>  
+<p>EX36 - Numero Positivo e Negativo;<p> 
+<p>EX37 - Intervalo de Numero;<p>  
   
   
