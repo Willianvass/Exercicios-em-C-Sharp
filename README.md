@@ -41,5 +41,7 @@
 <p>EX37 - Intervalo de Numero;<p>  
 <p>EX38 - Numeros e Divisores;<p>  
 <p>EX39 - Tipos de Triangulos;<p>  
-  
+<p>EX40 - Nome Genero Sexual;<p>  
+<p>EX41 - Adição If-Else;<p>
+<p>EX42 - Extrair Raiz Quadradas;<p>  
   
