@@ -26,7 +26,7 @@
 <p>EX25 - Salario Vendedor;<p>
 <p>EX26 - Velocidade Veiculo;<p>
   
-<p>EXECICIOS COM IF - ELSE<p>
+### EXERCICIOS COM IF - ELSE ###
   
 <p>EX27 - Verifica Numero Informado;<p>
 <p>EX28 - Maior e Menor Numero;<p>
@@ -44,9 +44,11 @@
 <p>EX40 - Nome Genero Sexual;<p>  
 <p>EX41 - Adição If-Else;<p>
 <p>EX42 - Extrair Raiz Quadradas;<p> 
-<p>EX43 - Verifica Numero !=;<p> 
-<p>EXECICIOS COM WHILE - LOOP<p>
-<p>EX44 - Tabuda While;<p> 
+<p>EX43 - Verifica Numero !=;<p>
+  
+### EXERCICIOS COM WHILE - LOOP ###
+  
+<p>EX44 - Tabuda While;<p>
 <p>EX45 - Lee Numeros e Altera Valor;<p> 
 <p>EX46 - Quadrado do Intervalo;<p> 
 <p>EX47 - Idade e Percentuais;<p> 
