@@ -1,4 +1,7 @@
-# Exercicios em C#
+# Exercícios em C#
+
+## Exercícios de Algoritmos em C# >> Usando Visual Studio 2022 ##
+
 <p>EX01 - Volume caixa;<p>
 <p>EX02 - Converter Temperatura;<p>
 <p>EX03 - Volume Cilindro;<p>
