@@ -54,5 +54,6 @@
 <p>EX44 - Tabuda While;<p>
 <p>EX45 - Lee Numeros e Altera Valor;<p> 
 <p>EX46 - Quadrado do Intervalo;<p> 
-<p>EX47 - Idade e Percentuais;<p> 
+<p>EX47 - Idade e Percentuais;<p>
+<p>EX48 - Verifica Entre 5 Numeros se São Negativos;<p>  
   
