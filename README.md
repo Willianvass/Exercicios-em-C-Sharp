@@ -56,4 +56,7 @@
 <p>EX46 - Quadrado do Intervalo;<p> 
 <p>EX47 - Idade e Percentuais;<p>
 <p>EX48 - Verifica Entre 5 Numeros se São Negativos;<p>  
-  
+<p>EX49 - Gera Numeros e Verifica Divisores;<p>  
+<p>EX50 - Media Geral Alunos;<p>  
+<p>EX51 - Todos Valores Imapres;<p>  
+<p>EX52 - Medias das Idades;<p>  
