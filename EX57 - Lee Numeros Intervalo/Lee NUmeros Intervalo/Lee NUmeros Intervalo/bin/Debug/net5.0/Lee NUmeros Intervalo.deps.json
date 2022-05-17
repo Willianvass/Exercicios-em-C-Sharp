@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lee NUmeros Intervalo/1.0.0": {
+        "runtime": {
+          "Lee NUmeros Intervalo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lee NUmeros Intervalo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
