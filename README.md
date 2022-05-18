@@ -59,4 +59,10 @@
 <p>EX49 - Gera Numeros e Verifica Divisores;<p>  
 <p>EX50 - Media Geral Alunos;<p>  
 <p>EX51 - Todos Valores Imapres;<p>  
-<p>EX52 - Medias das Idades;<p>  
+<p>EX52 - Medias das Idades;<p>
+<p>EX53 - População do Pais;<p> 
+<p>EX54 - Soma 100 Inteiros;<p> 
+<p>EX55 - Pesquisa Sim Não;<p> 
+<p>EX56 - Potencias em Intervalo;<p> 
+<p>EX57 - Lee Numeros no Intervalo;<p> 
+<p>EX52 - Medias das Idades;<p>   
