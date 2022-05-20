@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\bin\Debug\net5.0\Media 10 Alunos.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\bin\Debug\net5.0\Media 10 Alunos.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\bin\Debug\net5.0\Media 10 Alunos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\bin\Debug\net5.0\Media 10 Alunos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\bin\Debug\net5.0\Media 10 Alunos.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\bin\Debug\net5.0\Media 10 Alunos.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\obj\Debug\net5.0\Media 10 Alunos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\obj\Debug\net5.0\Media 10 Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\obj\Debug\net5.0\Media 10 Alunos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\obj\Debug\net5.0\Media 10 Alunos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\obj\Debug\net5.0\Media 10 Alunos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\obj\Debug\net5.0\Media 10 Alunos.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\obj\Debug\net5.0\refint\Media 10 Alunos.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\obj\Debug\net5.0\Media 10 Alunos.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\obj\Debug\net5.0\Media 10 Alunos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX59 - Media 10 Alunos\Media 10 Alunos\Media 10 Alunos\obj\Debug\net5.0\ref\Media 10 Alunos.dll
