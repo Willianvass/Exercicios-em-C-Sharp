@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\obj\Debug\net5.0\Genero Sexual.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\obj\Debug\net5.0\Genero Sexual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\obj\Debug\net5.0\Genero Sexual.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\obj\Debug\net5.0\Genero Sexual.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\obj\Debug\net5.0\Genero Sexual.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\bin\Debug\net5.0\Genero Sexual.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\bin\Debug\net5.0\Genero Sexual.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\bin\Debug\net5.0\Genero Sexual.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\bin\Debug\net5.0\Genero Sexual.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\bin\Debug\net5.0\Genero Sexual.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\bin\Debug\net5.0\Genero Sexual.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\obj\Debug\net5.0\Genero Sexual.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\obj\Debug\net5.0\refint\Genero Sexual.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\obj\Debug\net5.0\Genero Sexual.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\obj\Debug\net5.0\Genero Sexual.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX58 - Genero Sexual\Genero Sexual\Genero Sexual\obj\Debug\net5.0\ref\Genero Sexual.dll
