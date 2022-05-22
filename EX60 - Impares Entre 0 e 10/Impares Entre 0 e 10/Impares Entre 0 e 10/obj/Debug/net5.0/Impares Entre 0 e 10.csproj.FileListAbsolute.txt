@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\bin\Debug\net5.0\Impares Entre 0 e 10.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\bin\Debug\net5.0\Impares Entre 0 e 10.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\bin\Debug\net5.0\Impares Entre 0 e 10.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\bin\Debug\net5.0\Impares Entre 0 e 10.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\bin\Debug\net5.0\Impares Entre 0 e 10.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\bin\Debug\net5.0\Impares Entre 0 e 10.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\obj\Debug\net5.0\Impares Entre 0 e 10.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\obj\Debug\net5.0\Impares Entre 0 e 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\obj\Debug\net5.0\Impares Entre 0 e 10.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\obj\Debug\net5.0\Impares Entre 0 e 10.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\obj\Debug\net5.0\Impares Entre 0 e 10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\obj\Debug\net5.0\Impares Entre 0 e 10.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\obj\Debug\net5.0\refint\Impares Entre 0 e 10.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\obj\Debug\net5.0\Impares Entre 0 e 10.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\obj\Debug\net5.0\Impares Entre 0 e 10.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX60 - Impares Entre 0 e 10\Impares Entre 0 e 10\Impares Entre 0 e 10\obj\Debug\net5.0\ref\Impares Entre 0 e 10.dll
