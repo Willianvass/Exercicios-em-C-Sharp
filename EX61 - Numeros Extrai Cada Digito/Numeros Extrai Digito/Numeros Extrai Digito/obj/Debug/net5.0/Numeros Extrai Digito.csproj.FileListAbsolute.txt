@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\bin\Debug\net5.0\Numeros Extrai Digito.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\bin\Debug\net5.0\Numeros Extrai Digito.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\bin\Debug\net5.0\Numeros Extrai Digito.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\bin\Debug\net5.0\Numeros Extrai Digito.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\bin\Debug\net5.0\Numeros Extrai Digito.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\bin\Debug\net5.0\Numeros Extrai Digito.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\obj\Debug\net5.0\Numeros Extrai Digito.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\obj\Debug\net5.0\Numeros Extrai Digito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\obj\Debug\net5.0\Numeros Extrai Digito.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\obj\Debug\net5.0\Numeros Extrai Digito.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\obj\Debug\net5.0\Numeros Extrai Digito.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\obj\Debug\net5.0\Numeros Extrai Digito.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\obj\Debug\net5.0\refint\Numeros Extrai Digito.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\obj\Debug\net5.0\Numeros Extrai Digito.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\obj\Debug\net5.0\Numeros Extrai Digito.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX61 - Numeros Extrai Cada Digito\Numeros Extrai Digito\Numeros Extrai Digito\obj\Debug\net5.0\ref\Numeros Extrai Digito.dll
