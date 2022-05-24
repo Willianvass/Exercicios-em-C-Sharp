@@ -65,4 +65,7 @@
 <p>EX55 - Pesquisa Sim Não;<p> 
 <p>EX56 - Potencias em Intervalo;<p> 
 <p>EX57 - Lee Numeros no Intervalo;<p> 
-<p>EX52 - Medias das Idades;<p>   
+<p>EX58 - Medias das Idades;<p> 
+<p>EX59 - Media de 10 Alunos;<p>
+<p>EX60 - Impares Entre 0 e 10;<p>
+<p>EX60 - Numeros Extrair Cada Numero;<p>
