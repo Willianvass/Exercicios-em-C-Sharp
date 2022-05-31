@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\bin\Debug\net5.0\Numero Reverso.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\bin\Debug\net5.0\Numero Reverso.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\bin\Debug\net5.0\Numero Reverso.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\bin\Debug\net5.0\Numero Reverso.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\bin\Debug\net5.0\Numero Reverso.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\bin\Debug\net5.0\Numero Reverso.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\obj\Debug\net5.0\Numero Reverso.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\obj\Debug\net5.0\Numero Reverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\obj\Debug\net5.0\Numero Reverso.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\obj\Debug\net5.0\Numero Reverso.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\obj\Debug\net5.0\Numero Reverso.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\obj\Debug\net5.0\Numero Reverso.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\obj\Debug\net5.0\refint\Numero Reverso.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\obj\Debug\net5.0\Numero Reverso.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\obj\Debug\net5.0\Numero Reverso.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX62 - Numero Reverso\Numero Reverso\Numero Reverso\obj\Debug\net5.0\ref\Numero Reverso.dll
