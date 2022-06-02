@@ -69,3 +69,5 @@
 <p>EX59 - Media de 10 Alunos;<p>
 <p>EX60 - Impares Entre 0 e 10;<p>
 <p>EX61 - Numeros Extrair Cada Numero;<p>
+  
+### EXERCICIOS POO ###
