@@ -14,3 +14,19 @@ C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\Pessoa\Pessoas\Pessoas\obj\
 C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\Pessoas.pdb
 C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\Pessoas.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\ref\Pessoas.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\bin\Debug\net5.0\Pessoas.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\bin\Debug\net5.0\Pessoas.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\bin\Debug\net5.0\Pessoas.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\bin\Debug\net5.0\Pessoas.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\bin\Debug\net5.0\Pessoas.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\bin\Debug\net5.0\Pessoas.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\Pessoas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\Pessoas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\Pessoas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\Pessoas.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\refint\Pessoas.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\Pessoas.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\Pessoas.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX - POO - Pessoa\Pessoas\Pessoas\obj\Debug\net5.0\ref\Pessoas.dll

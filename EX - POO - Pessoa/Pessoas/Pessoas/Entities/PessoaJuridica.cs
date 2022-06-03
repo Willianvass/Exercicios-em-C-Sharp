@@ -9,14 +9,23 @@ namespace Pessoas.Entities
 {
     public class PessoaJuridica : Pessoa
     {
-        long cnpj { get; set; }
-        long inscriçãoEstadual { get; set; }
-        long inscriçãoMunicipal { get; set;}    
+        public long cnpj { get; set; }
+        public long inscriçãoEstadual { get; set; }
+        public long inscriçãoMunicipal { get; set;}    
         public PessoaJuridica(string nome, string endereço, string telefone, long cnpj, long inscriçãoEstadual, long inscriçãoMunicipal) : base(nome, endereço, telefone)
         {
             this.cnpj = cnpj;
             this.inscriçãoMunicipal = inscriçãoMunicipal;
-            this.inscriçãoMunicipal = inscriçãoEstadual;
+            this.inscriçãoEstadual = inscriçãoEstadual;
+        }
+        public override string ToString()
+        {
+            return "\n" + "Nome: " + this.nome + "\n"
+                + "Endereço: " + this.endereço + "\n"
+                + "Fone: " + this.telefone + "\n"
+                + "CNPJ: " + this.cnpj + "\n"
+                + "Inscrição Estadual: " + this.inscriçãoEstadual + "\n"
+                + "Inscrição Municipal: " + this.inscriçãoMunicipal;
         }
     }
 }

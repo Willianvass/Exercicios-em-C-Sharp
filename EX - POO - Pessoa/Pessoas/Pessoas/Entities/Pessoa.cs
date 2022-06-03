@@ -8,9 +8,9 @@ namespace Pessoas.Entities
 {
     public class Pessoa
     {
-        string nome { get; set; }
-        string endereço { get; set; }
-        string telefone { get; set; }
+        public string nome { get; set; }
+        public string endereço { get; set; }
+        public string telefone { get; set; }
 
         public Pessoa(string nome, string endereço, string telefone)
         {

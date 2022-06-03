@@ -1,7 +1,7 @@
 ﻿using Pessoas.Entities;
 using System;
 
-namespace Pessoas
+namespace Pessoa
 {
     public class Program
     {

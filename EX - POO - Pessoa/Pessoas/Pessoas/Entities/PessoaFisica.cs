@@ -16,5 +16,13 @@ namespace Pessoas.Entities
             this.cpf = cpf;
             this.Datanascimento = datanascimento;   
         }
+        public override string ToString()
+        {
+            return "Nome: " + this.nome + "\n"
+                + "Endereço: " + this.endereço + "\n"
+                + "Fone: " + this.telefone + "\n"
+                + "CPF: " + this.cpf + "\n"
+                + "Nascimento: " + this.Datanascimento;
+        }
     }
 }
