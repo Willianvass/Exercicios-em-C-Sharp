@@ -12,6 +12,9 @@ namespace Animais
 
             Herbivoro Panda = new Herbivoro("Panda", "Femea", "Urso", "Bambu");
             Console.WriteLine(Panda);
+
+            Mamifero Elefante = new Mamifero("Elefante", "Macho", "Grande", 55);
+            Console.WriteLine(Elefante);
         }
     }
 }

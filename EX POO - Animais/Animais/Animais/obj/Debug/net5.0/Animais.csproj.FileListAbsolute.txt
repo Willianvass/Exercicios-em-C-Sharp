@@ -14,3 +14,19 @@ C:\Users\Usuário\Desktop\DEV\Animais\Animais\Animais\obj\Debug\net5.0\refint\An
 C:\Users\Usuário\Desktop\DEV\Animais\Animais\Animais\obj\Debug\net5.0\Animais.pdb
 C:\Users\Usuário\Desktop\DEV\Animais\Animais\Animais\obj\Debug\net5.0\Animais.genruntimeconfig.cache
 C:\Users\Usuário\Desktop\DEV\Animais\Animais\Animais\obj\Debug\net5.0\ref\Animais.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\bin\Debug\net5.0\Animais.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\bin\Debug\net5.0\Animais.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\bin\Debug\net5.0\Animais.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\bin\Debug\net5.0\Animais.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\bin\Debug\net5.0\Animais.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\bin\Debug\net5.0\Animais.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\obj\Debug\net5.0\Animais.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\obj\Debug\net5.0\Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\obj\Debug\net5.0\Animais.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\obj\Debug\net5.0\Animais.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\obj\Debug\net5.0\Animais.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\obj\Debug\net5.0\Animais.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\obj\Debug\net5.0\refint\Animais.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\obj\Debug\net5.0\Animais.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\obj\Debug\net5.0\Animais.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\Exercicios C#\EX POO - Animais\Animais\Animais\obj\Debug\net5.0\ref\Animais.dll

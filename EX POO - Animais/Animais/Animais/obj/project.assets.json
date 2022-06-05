@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuário\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuário\\Desktop\\DEV\\Animais\\Animais\\Animais\\Animais.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Desenvolvedor\\Exercicios C#\\EX POO - Animais\\Animais\\Animais\\Animais.csproj",
       "projectName": "Animais",
-      "projectPath": "C:\\Users\\Usuário\\Desktop\\DEV\\Animais\\Animais\\Animais\\Animais.csproj",
-      "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuário\\Desktop\\DEV\\Animais\\Animais\\Animais\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Desenvolvedor\\Exercicios C#\\EX POO - Animais\\Animais\\Animais\\Animais.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Desenvolvedor\\Exercicios C#\\EX POO - Animais\\Animais\\Animais\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
