@@ -15,6 +15,9 @@ namespace Animais
 
             Mamifero Elefante = new Mamifero("Elefante", "Macho", "Grande", 55);
             Console.WriteLine(Elefante);
+
+            Onivoro Urso = new Onivoro("Urso", "Macho", "Canino", 15);
+            Console.WriteLine(Urso);
         }
     }
 }
