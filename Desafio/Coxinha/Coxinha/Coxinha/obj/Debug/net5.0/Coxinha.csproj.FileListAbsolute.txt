@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\bin\Debug\net5.0\Coxinha.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\bin\Debug\net5.0\Coxinha.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\bin\Debug\net5.0\Coxinha.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\bin\Debug\net5.0\Coxinha.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\bin\Debug\net5.0\Coxinha.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\bin\Debug\net5.0\Coxinha.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\obj\Debug\net5.0\Coxinha.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\obj\Debug\net5.0\Coxinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\obj\Debug\net5.0\Coxinha.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\obj\Debug\net5.0\Coxinha.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\obj\Debug\net5.0\Coxinha.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\obj\Debug\net5.0\Coxinha.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\obj\Debug\net5.0\refint\Coxinha.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\obj\Debug\net5.0\Coxinha.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\obj\Debug\net5.0\Coxinha.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Coxinha\Coxinha\Coxinha\obj\Debug\net5.0\ref\Coxinha.dll

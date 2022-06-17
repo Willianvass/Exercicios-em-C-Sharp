@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\bin\Debug\net5.0\Esfera.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\bin\Debug\net5.0\Esfera.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\bin\Debug\net5.0\Esfera.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\bin\Debug\net5.0\Esfera.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\bin\Debug\net5.0\Esfera.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\bin\Debug\net5.0\Esfera.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\obj\Debug\net5.0\Esfera.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\obj\Debug\net5.0\Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\obj\Debug\net5.0\Esfera.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\obj\Debug\net5.0\Esfera.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\obj\Debug\net5.0\Esfera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\obj\Debug\net5.0\Esfera.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\obj\Debug\net5.0\refint\Esfera.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\obj\Debug\net5.0\Esfera.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\obj\Debug\net5.0\Esfera.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Esfera\Esfera\Esfera\obj\Debug\net5.0\ref\Esfera.dll

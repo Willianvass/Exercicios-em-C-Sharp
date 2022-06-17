@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\bin\Debug\net5.0\100_Valores.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\bin\Debug\net5.0\100_Valores.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\bin\Debug\net5.0\100_Valores.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\bin\Debug\net5.0\100_Valores.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\bin\Debug\net5.0\100_Valores.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\bin\Debug\net5.0\100_Valores.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\obj\Debug\net5.0\100_Valores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\obj\Debug\net5.0\100_Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\obj\Debug\net5.0\100_Valores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\obj\Debug\net5.0\100_Valores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\obj\Debug\net5.0\100_Valores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\obj\Debug\net5.0\100_Valores.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\obj\Debug\net5.0\refint\100_Valores.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\obj\Debug\net5.0\100_Valores.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\obj\Debug\net5.0\100_Valores.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\100 Valores\100_Valores\100_Valores\obj\Debug\net5.0\ref\100_Valores.dll
