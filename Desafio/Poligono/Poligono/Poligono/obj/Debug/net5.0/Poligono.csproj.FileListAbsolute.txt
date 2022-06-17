@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\bin\Debug\net5.0\Poligono.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\bin\Debug\net5.0\Poligono.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\bin\Debug\net5.0\Poligono.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\bin\Debug\net5.0\Poligono.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\bin\Debug\net5.0\Poligono.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\bin\Debug\net5.0\Poligono.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\obj\Debug\net5.0\Poligono.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\obj\Debug\net5.0\Poligono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\obj\Debug\net5.0\Poligono.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\obj\Debug\net5.0\Poligono.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\obj\Debug\net5.0\Poligono.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\obj\Debug\net5.0\Poligono.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\obj\Debug\net5.0\refint\Poligono.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\obj\Debug\net5.0\Poligono.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\obj\Debug\net5.0\Poligono.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Poligono\Poligono\Poligono\obj\Debug\net5.0\ref\Poligono.dll

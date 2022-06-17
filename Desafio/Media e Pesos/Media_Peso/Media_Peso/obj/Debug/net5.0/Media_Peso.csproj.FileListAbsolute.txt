@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\bin\Debug\net5.0\Media_Peso.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\bin\Debug\net5.0\Media_Peso.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\bin\Debug\net5.0\Media_Peso.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\bin\Debug\net5.0\Media_Peso.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\bin\Debug\net5.0\Media_Peso.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\bin\Debug\net5.0\Media_Peso.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\obj\Debug\net5.0\Media_Peso.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\obj\Debug\net5.0\Media_Peso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\obj\Debug\net5.0\Media_Peso.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\obj\Debug\net5.0\Media_Peso.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\obj\Debug\net5.0\Media_Peso.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\obj\Debug\net5.0\Media_Peso.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\obj\Debug\net5.0\refint\Media_Peso.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\obj\Debug\net5.0\Media_Peso.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\obj\Debug\net5.0\Media_Peso.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Media e Pesos\Media_Peso\Media_Peso\obj\Debug\net5.0\ref\Media_Peso.dll
