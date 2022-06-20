@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Vida_Academica/1.0.0": {
+        "runtime": {
+          "Vida_Academica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vida_Academica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

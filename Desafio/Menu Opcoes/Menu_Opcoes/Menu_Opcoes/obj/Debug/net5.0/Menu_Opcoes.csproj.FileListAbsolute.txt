@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\bin\Debug\net5.0\Menu_Opcoes.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\bin\Debug\net5.0\Menu_Opcoes.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\bin\Debug\net5.0\Menu_Opcoes.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\bin\Debug\net5.0\Menu_Opcoes.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\bin\Debug\net5.0\Menu_Opcoes.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\bin\Debug\net5.0\Menu_Opcoes.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\obj\Debug\net5.0\Menu_Opcoes.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\obj\Debug\net5.0\Menu_Opcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\obj\Debug\net5.0\Menu_Opcoes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\obj\Debug\net5.0\Menu_Opcoes.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\obj\Debug\net5.0\Menu_Opcoes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\obj\Debug\net5.0\Menu_Opcoes.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\obj\Debug\net5.0\refint\Menu_Opcoes.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\obj\Debug\net5.0\Menu_Opcoes.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\obj\Debug\net5.0\Menu_Opcoes.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio\Menu Opcoes\Menu_Opcoes\Menu_Opcoes\obj\Debug\net5.0\ref\Menu_Opcoes.dll
